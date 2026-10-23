@@ -6,5 +6,6 @@ brand/
 # Specification and project documents are written by hand; do not reformat.
 docs/
 CLAUDE.md
+GEMINI.md
 apps/web/AGENTS.md
 apps/web/CLAUDE.md
